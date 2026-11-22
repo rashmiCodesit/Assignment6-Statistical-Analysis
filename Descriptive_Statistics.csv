@@ -1,0 +1,59 @@
+Variable,Response,Frequency,Percentage
+Role,Postgraduate Student,9,28.12
+Role,Undergraduate Student,6,18.75
+Role,IT Professional,6,18.75
+Role,Research Scholar,4,12.5
+Role,Cybersecurity Professional,4,12.5
+Role,Other,3,9.38
+Familiarity,Very familiar,8,25.0
+Familiarity,Moderately familiar,8,25.0
+Familiarity,Slightly familiar,7,21.88
+Familiarity,Not familiar at all,5,15.62
+Familiarity,Heard of them but know very little,4,12.5
+Current_Use,Yes,13,40.62
+Current_Use,No,11,34.38
+Current_Use,Not sure,8,25.0
+Usage_Frequency,—,18,56.25
+Usage_Frequency,Weekly,4,12.5
+Usage_Frequency,Daily,3,9.38
+Usage_Frequency,Occasionally,3,9.38
+Usage_Frequency,Rarely,2,6.25
+Usage_Frequency,nan,1,3.12
+Usage_Frequency,Ocassionally,1,3.12
+Trust,—,18,56.25
+Trust,Moderate,4,12.5
+Trust,High,3,9.38
+Trust,Low,3,9.38
+Trust,Very high,2,6.25
+Trust,nan,1,3.12
+Trust,Very low,1,3.12
+False_Positives,—,18,56.25
+False_Positives,Sometimes,4,12.5
+False_Positives,Never,3,9.38
+False_Positives,Rarely,3,9.38
+False_Positives,Frequently,2,6.25
+False_Positives,nan,1,3.12
+False_Positives,Not sure,1,3.12
+Non_Use_Reason,—,20,62.5
+Non_Use_Reason,Lack of awareness,3,9.38
+Non_Use_Reason,Not applicable / Not sure,2,6.25
+Non_Use_Reason,Lack of technical knowledge,2,6.25
+Non_Use_Reason,Cost or resource limitations,2,6.25
+Non_Use_Reason,Concerns about accuracy or reliability,2,6.25
+Non_Use_Reason,Preference for traditional security methods,1,3.12
+Biggest_Challenge,Lack of explainability or transparency,6,18.75
+Biggest_Challenge,High false-positive rate,6,18.75
+Biggest_Challenge,Poor generalisation across different network environments or datasets,6,18.75
+Biggest_Challenge,Difficulty detecting new or unknown attacks,5,15.62
+Biggest_Challenge,Data quality or class imbalance,5,15.62
+Biggest_Challenge,High computational or resource requirements,4,12.5
+Reliability_Factor,Ability to detect unseen attacks,7,21.88
+Reliability_Factor,High detection accuracy,7,21.88
+Reliability_Factor,Generalisation across different datasets or networks,7,21.88
+Reliability_Factor,Low false-positive rate,6,18.75
+Reliability_Factor,Explainable decisions,5,15.62
+Future_Adoption,Not sure,9,28.12
+Future_Adoption,Definitely yes,8,25.0
+Future_Adoption,Probably yes,7,21.88
+Future_Adoption,Probably no,5,15.62
+Future_Adoption,Definitely no,3,9.38
